@@ -1,4 +1,4 @@
-  Sistema de Coleta
+  Sistema de coleta com React e typescript
 Sistema de coleta, utilizando conceitos de geocalização e consumindo a API do IBGE
 
 Screenshot's:
